@@ -1,3 +1,3 @@
-## EE319K - Introduction to Embedded Systems - Lab 1
+## EE319K - Introduction to Embedded Systems - Lab 2
 
 Find the lab description at link below :
