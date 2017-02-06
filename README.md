@@ -2,4 +2,4 @@
 
 Find the lab description at link below :
 
-_To be released_
+_To be released by Wednesday, Feb 8th_
